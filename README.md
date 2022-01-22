@@ -7,4 +7,6 @@ Cada NFT representa uma árvore plantada para o reflorestamento.
 
 
 # GOVERNANÇA
-Critérios do processo de novos plantios são decididos por quem possuir mais unidades do TOKEN ERC-20 (ARV).
+Critérios do processo de novos plantios serão decididos por quem possuir a maioria das unidades emitidas do TOKEN ERC-20 (ARV).
+
+Cada unidade do Token dá direito hà um voto na tomada de decisões estratégicas de ARV.
