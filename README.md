@@ -6,5 +6,5 @@ Baseado em blockchain pública, onde:
 Cada NFT representa uma árvore plantada para o reflorestamento. 
 
 
-# GOVERNANCIA
+# GOVERNANÇA
 Critérios do processo de novos plantios são decididos por quem possuir mais unidades do TOKEN ERC-20 (ARV).
