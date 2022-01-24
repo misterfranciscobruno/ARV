@@ -1,12 +1,13 @@
 # ARV
-ARV(ERC-20) é o token de governança dos NFTs ARV(ERC-1155). 
-Baseado em blockchain pública, onde:
+Projeto de tokenização de árvores. 
 
 # NFT
-Cada NFT representa uma árvore plantada para o reflorestamento. 
+Cada NFT representa uma árvore plantada para o reflorestamento, indicando dados geográficos em seu design. 
 
+# ERC-20
+Token de governança dos NFTs ARV(ERC-1155). 
+Registrado na blockchain pública Ethereum. 
 
 # GOVERNANÇA
-Critérios do processo de novos plantios serão decididos por quem possuir a maioria das unidades emitidas do TOKEN ERC-20 (ARV).
-
-Cada unidade do Token dá direito a 1 voto na tomada de decisões estratégicas de ARV.
+Critérios do processo de plantios serão decididos por votação.
+Cada unidade do Token ERC-20 dá direito a 1 voto na tomada de decisões em ARV.
