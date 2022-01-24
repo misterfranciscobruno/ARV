@@ -1,5 +1,5 @@
 # ARV
-ARV(ERC-20) é o Token de governança dos NFTs ARV(ERC-1155). 
+ARV(ERC-20) é o token de governança dos NFTs ARV(ERC-1155). 
 Baseado em blockchain pública, onde:
 
 # NFT
