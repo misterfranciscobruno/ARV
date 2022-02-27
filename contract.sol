@@ -7,9 +7,9 @@ import "@openzeppelin/contracts@4.4.1/utils/Strings.sol";
 /// @custom:security-contact security@arv.green
 contract ARV is ERC1155 {
 
-    constructor() public ERC1155("https://api.arv.green/tokens/{id}.json") {
+    constructor() public ERC1155("ipfs://QmQF2LavAAdDtnBPTi4zy3aJae9mX1Euao3h4q2PSg26pT/{id}.json") {
       uint256 arv;
-        for (uint i = 0; i < 5000; i++) {
+        for (uint i = 1; i < 1001; i++) {
              arv = uint256(i);
             _mint(msg.sender, arv, 1, "");
         
@@ -17,14 +17,14 @@ contract ARV is ERC1155 {
     }
 
     function contractURI() public view returns (string memory) {
-        return "https://api.arv.green/tokens.json";
+        return "ipfs://QmQF2LavAAdDtnBPTi4zy3aJae9mX1Euao3h4q2PSg26pT/tokens.json";
     }
     
 
     function uri(uint256 _tokenId) override public view returns (string memory){
         return string(
             abi.encodePacked(
-            "https://api.arv.green/tokens/",
+            "ipfs://QmQF2LavAAdDtnBPTi4zy3aJae9mX1Euao3h4q2PSg26pT/",
             Strings.toString(_tokenId),
             ".json"
             )
