@@ -12,7 +12,7 @@ Alguns fornecedores terceirizados podem colocar cookies ou pixels - pequenos arq
 
 ###### 1.3 O uso que você fizer do ARV.Green e de quaisquer informações pessoais fornecidas por meio das Ferramentas permanecerá sujeito aos termos desta Política de Privacidade e dos Termos de Uso, já que cada um pode ser atualizado de tempos em tempos.
 
-###### 1.4 Quaisquer perguntas, comentários ou reclamações que você possa ter devem ser enviados por e-mail para arv@avc.green
+###### 1.4 Quaisquer perguntas, comentários ou reclamações que você possa ter devem ser enviados por e-mail para arv@arv.green
 
 ## 2. Informações coletadas no site e nas ferramentas
 
