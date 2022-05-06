@@ -19,3 +19,5 @@ Critérios de governança serão decididos por votação.
 Cada unidade do Token ERC-1155(NFT) dá direito a 1 voto na tomada de decisões em ARV.
 
 Pegasus.
+
+7544ddd4347fa1a583604d9583b966522cce1b890a97b1eeb3232e4ef440a9e5
